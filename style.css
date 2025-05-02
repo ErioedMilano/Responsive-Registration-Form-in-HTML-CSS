@@ -132,4 +132,7 @@ form .button input:hover{
         max-height: 300px;
         overflow-y:scroll;
     }
+    .user-details::-webkit-scrollbar{
+        width: 0;
+    }
 }
