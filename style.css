@@ -117,6 +117,7 @@ form .button input{
 form .button input:hover{
     background: linear-gradient(135deg,#EDDD53,#2A7B9B);
 }
+/* Responsive media query code for mobile devices */
 @media (max-width: 584px) {
     .container{
         max-width:100%;
